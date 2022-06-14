@@ -1,1 +1,11 @@
 This folder contains different basic to advanced level standard coding problems based on Arrays.
+
+
+Limitations of Array:
+    1.Fixed size
+    2.Contigious block of memory    (fixed length of memory divided into fixed sized memory blocks)
+    3.Inserting or deleting is costly.
+    4. Homogeneous --> single data type
+
+finding size of an array:
+    size = sizeof(arr)/sizeof(arr[0]);
